@@ -72,4 +72,8 @@ cover/
 
 # Logs
 *.log
+
 data/
+
+
+.DS_Store
